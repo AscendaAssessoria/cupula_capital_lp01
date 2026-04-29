@@ -1,0 +1,13 @@
+{
+  "name": "cupula-capital-lp",
+  "version": "1.0.0",
+  "description": "Landing Page Cúpula Capital",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
